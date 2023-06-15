@@ -9,7 +9,7 @@ My name is Hoang Dinh. I am a student. I am a geek and I love programming.<br>
 
 <a href="https://github.com/BlinkDev2k2/Game_Caro">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BlinkDev2k2&repo=Game_&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BlinkDev2k2&repo=Game_Caro&theme=radical" />
 </a>    
 <a href="https://github.com/BlinkDev2k2/Program_Manager_Students">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
@@ -18,11 +18,11 @@ My name is Hoang Dinh. I am a student. I am a geek and I love programming.<br>
 
 <a href="https://github.com/BlinkDev2k2/Notepad_Mini">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BlinkDev2k2&repo=Notepad_&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BlinkDev2k2&repo=Notepad_Mini&theme=gruvbox" />
 </a>    
 <a href="https://github.com/BlinkDev2k2/Snake_Game">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BlinkDev2k2&repo=SnGame&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BlinkDev2k2&repo=Snake_Game&theme=dark" />
 </a>
 
 <a href="https://github.com/BlinkDev2k2/Caculator_Basic">
