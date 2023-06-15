@@ -47,8 +47,5 @@ My name is Hoang Dinh. I am a student. I am a geek and I love programming.<br>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=BlinkDev2k2&icon=7&color=5)](https://visitcount.itsvg.in)
