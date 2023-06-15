@@ -11,12 +11,6 @@ My name is Hoang Dinh. I am a student. I am a geek and I love programming.<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BlinkDev2k2&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlinkDev2k2&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BlinkDev2k2&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BlinkDev2k2&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
@@ -46,6 +40,12 @@ My name is Hoang Dinh. I am a student. I am a geek and I love programming.<br>
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BlinkDev2k2&repo=Tree_Practice&theme=onedark" />
 </a>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=BlinkDev2k2&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
