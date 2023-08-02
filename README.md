@@ -14,6 +14,11 @@ My name is Hoang Dinh. I am a student. I am a geek and I love programming.<br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BlinkDev2k2&limit=6&theme=tokyonight&combine_all_yearly_contributions=true)
 
+<a href="https://github.com/BlinkDev2k2/LaunchRandomApp">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BlinkDev2k2&repo=LaunchRandomApp&theme=merko" />
+</a>    
+
 <a href="https://github.com/BlinkDev2k2/Game_Caro">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=BlinkDev2k2&repo=Game_Caro&theme=radical" />
