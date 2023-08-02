@@ -9,10 +9,10 @@ My name is Hoang Dinh. I am a student. I am a geek and I love programming.<br>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=BlinkDev2k2&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BlinkDev2k2&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlinkDev2k2&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlinkDev2k2&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BlinkDev2k2&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=BlinkDev2k2&limit=6&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <a href="https://github.com/BlinkDev2k2/Game_Caro">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
